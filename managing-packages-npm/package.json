@@ -19,5 +19,6 @@
 		"nodejs",
 		"npm",
 		"certification"
-	]
+	],
+	"license": "MIT"
 }
